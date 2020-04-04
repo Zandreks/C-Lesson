@@ -1,0 +1,12 @@
+/Users/maksimseveranov/Projects/Lesson1/Lesson3/obj/Debug/netcoreapp3.1/Lesson3.csprojAssemblyReference.cache
+/Users/maksimseveranov/Projects/Lesson1/Lesson3/obj/Debug/netcoreapp3.1/Lesson3.csproj.CoreCompileInputs.cache
+/Users/maksimseveranov/Projects/Lesson1/Lesson3/obj/Debug/netcoreapp3.1/Lesson3.AssemblyInfoInputs.cache
+/Users/maksimseveranov/Projects/Lesson1/Lesson3/obj/Debug/netcoreapp3.1/Lesson3.AssemblyInfo.cs
+/Users/maksimseveranov/Projects/Lesson1/Lesson3/bin/Debug/netcoreapp3.1/Lesson3.deps.json
+/Users/maksimseveranov/Projects/Lesson1/Lesson3/bin/Debug/netcoreapp3.1/Lesson3.runtimeconfig.json
+/Users/maksimseveranov/Projects/Lesson1/Lesson3/bin/Debug/netcoreapp3.1/Lesson3.runtimeconfig.dev.json
+/Users/maksimseveranov/Projects/Lesson1/Lesson3/bin/Debug/netcoreapp3.1/Lesson3.dll
+/Users/maksimseveranov/Projects/Lesson1/Lesson3/bin/Debug/netcoreapp3.1/Lesson3.pdb
+/Users/maksimseveranov/Projects/Lesson1/Lesson3/obj/Debug/netcoreapp3.1/Lesson3.dll
+/Users/maksimseveranov/Projects/Lesson1/Lesson3/obj/Debug/netcoreapp3.1/Lesson3.pdb
+/Users/maksimseveranov/Projects/Lesson1/Lesson3/obj/Debug/netcoreapp3.1/Lesson3.genruntimeconfig.cache
